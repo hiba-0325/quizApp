@@ -1,0 +1,25 @@
+[
+    {
+      "question": " How many elements in water?",
+      "options": ["3", "4", "2", "9"],
+      "answer": "2"
+    },
+    {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris"
+      },
+      {
+        "question": "who is known as father of computer?",
+        "options": ["charles babage", "billgates", "james", "dennis "],
+        "answer": "charles babage"
+      },
+      {
+        "question": "what is known as temperory memory or volatile memory",
+        "options": ["SSD", "HDD", "RAM", "ROM "],
+        "answer": "RAM"
+      }
+      
+    
+  ]
+  
