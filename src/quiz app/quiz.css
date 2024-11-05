@@ -1,4 +1,9 @@
-.question-container{
-    background-color:antiquewhite;
-    width:500px
+.question-container {
+  background-color: antiquewhite;
+  width: 500px;
+}
+.results {
+  background-color: rgb(217, 241, 182);
+  width: 500px;
+  height: 500px;
 }
