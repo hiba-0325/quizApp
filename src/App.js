@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 
 import QuizApp from "./quiz app/quiz";
+import Tracker from "./expenseTracker/tracker";
+import TrackForm from "./expenseTracker/Component";
 
 
 function App() {
@@ -12,6 +14,10 @@ function App() {
     // {/* <QuizApp/> */}
     //   </div>
     
+    <div>
+      <TrackForm/>
+      <Tracker/>
+    </div>
     
   );
 }

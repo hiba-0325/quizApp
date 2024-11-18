@@ -6,7 +6,7 @@ import ExpenseList from './components/ExpenseList';
 import ExpenseFilter from './components/ExpenseFilter';
 
 
-function App() {
+function Tracker() {
 
     const [expenses, setExpenses] = useState(() => {
      
@@ -49,4 +49,4 @@ const total = filteredExp.reduce((total, expense) => total + expenses.amount, 0)
   
   )}
   
-  export default App
+  export default Tracker
